@@ -9,6 +9,8 @@ class App extends React.Component{
         headers: {
                 Authorization: `Client-ID ${process.env.REACT_APP_UNSPLASH_CLIENT_ID}`
             }
+        }).then((response) => {
+            console.log(response.data.results)
         });
     }
 
