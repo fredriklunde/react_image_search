@@ -1,3 +1,9 @@
+## Project Description
+This Project is hooked up to the Unsplash api and lets you search for image using keywords.
+The images are displayed in a nice fashion
+
+![alt text](https://i.ibb.co/87CNJN5/react-image-search.png "ScreenShot")
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
